@@ -1,0 +1,12 @@
+En Google Chrome abres una pestaña de incógnito y pegas esta dirección, bajas el archivo y lo instalas en el directorio que tu quieras.
+
+Copias la carpeta entera de "ZeroNet-win" donde quieras y ejecutas el fichero ZeroNet.exe entonces se abre una página web con el Dashboard de Zeronet.En la parte izquierda esta el menú 
+pulsa en ToKyoGhull DashBoard y se abre una página, elige de ahí la opción que quieras yo utilizo "Eventos Acestream 2.0". Pulsa en el deporte que quieras ver, los enlaces están a la 
+derecha, se abrirá la otra aplicación que instalamos al principio, el Acestream y si el enlace esta disponible pues nada, a disfrutar.
+
+Ahh, estos dos ficheros el acestream y el zeronet se quedan ejecutándose en segundo plano cuando terminamos, en los iconos del Windows de la dechecha abao el sistem tray desde ahí se pueden cerrar.
+
+
+CUANDO EJECUTES ZERONET POR PRIMERA VEZ TIENES QUE ESPERAR UN RATO A QUE TODO SE ACTUALICE Y SE DESCARGEN LOS FICHEROS, LOS NOMBRES DE LOS SITIOS IRAN APARECIENDO A LA IZQUIERA Y DESSAPARECIENDO LOS NOMBRES RAROS QUE APARECEN AL PRINCIPIO.
+
+https://download.acestream.media/Ace_Stream_Media_3.1.74.exe
